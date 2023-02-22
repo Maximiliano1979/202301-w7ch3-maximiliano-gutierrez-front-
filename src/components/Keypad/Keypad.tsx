@@ -1,4 +1,4 @@
-import Button from "./Button";
+import Button from "../Button/Button";
 
 interface Props {
   onButtonClick: (label: string) => void;
